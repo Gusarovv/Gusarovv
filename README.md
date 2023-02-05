@@ -106,7 +106,9 @@
 
 <h2 align='center'><i>Top Repos 💎</i></h2>
 <p align="center">
+<a href="https://github.com/Gusarovv/discord-card-canvas">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusarovv&repo=discord-card-canvas&bg_color=CCCCFF&border_color=9933FF&text_color=340134&title_color=340134&icon_color=9933FF" height="160">
+</a>
 </p>
 
 </br>
