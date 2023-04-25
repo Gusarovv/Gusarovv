@@ -116,3 +116,11 @@
 
 </br>
 
+<h2 align='center'><i>Discord 🦝</i></h2>
+<div align="center">
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/224814251112529920?theme=light&bg=ccccff&animated=true&hideDiscrim=false&borderRadius=30px&hideProfile=false&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/224814251112529920)
+
+</div>
+
+</br>
