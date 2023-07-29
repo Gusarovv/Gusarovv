@@ -8,9 +8,6 @@
 <h2 align='center'><i>Activity 📈</i></h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gusarovv&bg_color=CCCCFF&color=9933FF&line=9933FF&point=330033&area_color=9933FF&radius=15" width="100%">
-</p><p align="center">
-<img alt="Gusarov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gusarovv&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&hide=prs,contribs&bg_color=CCCCFF&border_color=9933FF&icon_color=9933FF&text_color=330033&title_color=9933FF" width="450px"/>
 <img alt="Gusarov's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gusarovv&background=CCCCFF&stroke=9933FF&ring=9933FF&fire=9933FF&border=9933FF&sideLabels=330033&currStreakNum=330033&sideNums=330033&currStreakLabel=330033&dates=9933FF" width="450px"/>
 </p>
 
@@ -29,8 +26,12 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![DiscordJS](https://img.shields.io/badge/Discord.JS-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -43,6 +44,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Lerna](https://img.shields.io/badge/Lerna-9333EA?logo=lerna&logoColor=fff&style=for-the-badge)
 
 ### 📋 Languages
 
@@ -66,6 +68,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/Typeorm-EF5543?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### 💻 IDEs/Editors and Design
 
@@ -91,20 +94,22 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)
 
 
 </br>
 
-<h2 align='center'><i>Top Repos 💎</i></h2>
+<h2 align='center'><i>Open souce Repos 💎</i></h2>
 <div align="center">
 <a href="https://github.com/Gusarovv/discord-card-canvas">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gusarovv&repo=discord-card-canvas&bg_color=CCCCFF&border_color=9933FF&text_color=340134&title_color=340134&icon_color=9933FF" height="140">
@@ -116,7 +121,7 @@
 
 </br>
 
-<h2 align='center'><i>Discord 🦝</i></h2>
+<h2 align='center'><i>Discord 🌐</i></h2>
 <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/224814251112529920?theme=light&bg=ccccff&animated=true&hideDiscrim=false&borderRadius=30px&hideProfile=false&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/224814251112529920)
