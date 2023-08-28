@@ -5,13 +5,13 @@
 
 <br />
 
-<h2 align='center'><i>Activity 📈</i></h2>
+<!-- <h2 align='center'><i>Activity 📈</i></h2>
 
 <p align="center">
 <img alt="Gusarov's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gusarovv&background=CCCCFF&stroke=9933FF&ring=9933FF&fire=9933FF&border=9933FF&sideLabels=330033&currStreakNum=330033&sideNums=330033&currStreakLabel=330033&dates=9933FF" width="450px"/>
 </p>
 
-</br>
+</br>-->
 
 <h2 align='center'><i>My Favorite Tools 🛠️ </i></h2>
 
